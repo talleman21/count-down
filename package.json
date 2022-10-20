@@ -1,0 +1,12 @@
+{
+  "name": "@thunderhead-public/count-down-from-ten",
+  "version": "1.0.0",
+  "description": "count down from ten",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "talleman",
+  "license": "ISC"
+}
