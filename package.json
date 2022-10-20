@@ -1,12 +1,20 @@
 {
-  "name": "@thunderhead-public/count-down-from-ten",
-  "version": "1.0.0",
-  "description": "count down from ten",
+  "name": "@thunderhead-public/count-down",
+  "version": "1.0.1",
+  "description": "function to count down from 10",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talleman21/count-down.git"
+  },
   "author": "talleman",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talleman21/count-down/issues"
+  },
+  "homepage": "https://github.com/talleman21/count-down#readme"
 }
